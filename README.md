@@ -17,7 +17,7 @@
 目前有部分的演講文字稿記錄在[維基文庫](https://wikisource.org/wiki/Main_Page)中
 
 - [蔣中正](https://zh.wikisource.org/wiki/Author:%E8%94%A3%E4%B8%AD%E6%AD%A3)
-- 嚴家淦 (無)
+- 嚴家淦 (無) [國史館檔案史料文物](https://ahonline.drnh.gov.tw/index.php?act=Archive/Search/eyJxdWVyeSI6W3siZmllbGQiOiJpbl9zdG9yZV9ubyIsInZhbHVlIjoiMDA2MDAwMDAwNjI4QSIsImF0dHIiOiIrIn1dfQ%3D%3D)
 - [蔣經國](https://zh.wikisource.org/wiki/Author:%E8%94%A3%E7%B6%93%E5%9C%8B)
 - [李登輝](https://zh.wikisource.org/wiki/Author:%E6%9D%8E%E7%99%BB%E8%BC%9D)
 - [陳水扁](https://zh.wikisource.org/wiki/Author:%E9%99%B3%E6%B0%B4%E6%89%81)
